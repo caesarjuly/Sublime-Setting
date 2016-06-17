@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Dracula Color Scheme",
+		"Emmet",
+		"jQuery",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"Theme - Spacegray"
+	]
+}
