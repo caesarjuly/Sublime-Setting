@@ -9,6 +9,7 @@
 		"BracketHighlighter",
 		"Dracula Color Scheme",
 		"Emmet",
+		"Git",
 		"jQuery",
 		"Package Control",
 		"Python PEP8 Autoformat",
@@ -16,6 +17,7 @@
 		"SublimeLinter",
 		"SublimeLinter-pep8",
 		"SublimeLinter-pyflakes",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"Zen Tabs"
 	]
 }
